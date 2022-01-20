@@ -13,14 +13,6 @@ npm-debug.log
 yarn-error.log
 .idea
 .vscode
-app
 config
-database
-public
-resources
-routes
-storage
-test
 vendor
-bootstrap
-tests
+public
